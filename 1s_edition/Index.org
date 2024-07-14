@@ -1,0 +1,24 @@
+#+title: Index
+#+date: 2024-05-06
+#+author: Álvaro Caride
+#+setupfile: ~/Documentos/fuji-ltx-export.org
+#+LATEX_CLASS: org-plain-latex
+
+
+
+* Descripción cluster híbrido
+** Estructura
+* Uso de los recursos del sistema
+** Slurm
+*** Emulador
+*** hpc
+*** Qc
+** módulos
+* Mecanismo de integración clásico-cuántico
+** Descripción del detalle estructural
+** Descripción funcional
+** Cómo se usa
+* Módulo qmio
+* QAT sofware package
+* QPU architecture
+* Q&A

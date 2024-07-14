@@ -1,0 +1,12 @@
+#+title: Readme
+
+Repo con la info de las formaciones del Dojo de qulacs
+
+* Primera edición
+
+- 5h un dia
+- Al día siguiente del curso de administración de John
+
+* Segunda edición
+
+- 6h en dos días
