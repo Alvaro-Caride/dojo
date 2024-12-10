@@ -1,0 +1,26 @@
+#+title: Readme
+
+* Hands On Session
+** DOJO 1
+** DOJO 2
+** DOJO 3
+
+** Exercise
+[[file:ArcoLinux-2024-05-14-1715669624_screenshot_411x146.jpg]]
+
+"Consigue el estado GHZ(Greenberger–Horne–Zeilinger state) más grande que puedas utilizando un máximo de 4 nodos"
+
+La puntuación se calcula como:
+
+#+begin_src python
+puntuacion = qubits_en_ghz / tiempo_ejecucion
+#+end_src
+
+Revisa los ficheros base.sh y base_x86.sh además del ghz.py. En todos estos hay unos <Placeholders> para ser substituidos por valores reales.
+
+*** Pista:
+- Diferentes arquitecturas
+- Diferente distribución de tareas
+- Diferentes opciones de optimización
+- Diferentes tamaños del ghz
+- ...
